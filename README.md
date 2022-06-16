@@ -9,7 +9,6 @@
 - 📖️ je suis entrain d'apprendre **golang,c++,django**
 <br>
 
-- 📫 contact : **wyene.cloud@gmail.com**
 <br>
 
 
